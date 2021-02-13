@@ -1,0 +1,10 @@
+The Phonebook entries are:
+Name: yusuf
+Phone Number: 5389631212
+Notes: brother
+Name: cansu
+Phone Number: 8552213636
+Notes: teammate
+Name: sena
+Phone Number: 8566993232
+Notes: friend
